@@ -1,0 +1,13 @@
+{
+    "name": "phaser-tile-engine",
+    "version": "0.0.1",
+    "dependencies": {
+        "gulp": "3.9.1",
+        "gulp-debug": "2.1.2",
+        "gulp-typescript": "2.13.0",
+        "gulp-rimraf": "^0.2.0",
+        "gulp-connect": "^4.0.0",
+        "gulp-watch": "^4.3.5",
+        "gulp-concat": "2.6.0"
+    }
+}

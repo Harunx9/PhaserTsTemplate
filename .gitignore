@@ -1,0 +1,5 @@
+/bin/assets/
+bin/dependencies
+bin/js
+node_modules
+typings
