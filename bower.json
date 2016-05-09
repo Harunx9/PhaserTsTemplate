@@ -1,7 +1,7 @@
 {
   "name": "EngineDependencies",
   "version": "0.0.1",
-  "dependencies": {
+  "devDependencies": {
     "phaser": "^2.4.7"
   }
 }
